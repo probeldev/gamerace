@@ -1,7 +1,6 @@
 package config
 
 import (
-	"github.com/hajimehoshi/ebiten/v2"
 	"golang.org/x/image/font"
 )
 
@@ -12,7 +11,6 @@ const (
 )
 
 var GameFont font.Face
-var CoinImage *ebiten.Image
 
 type ScreenType int
 

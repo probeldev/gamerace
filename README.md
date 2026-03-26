@@ -3,5 +3,5 @@
 ## Run
 
 ```
-go run github.com/probeldev/mysupergame@latest
+go run github.com/probeldev/racegame@latest
 ```

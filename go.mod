@@ -1,4 +1,4 @@
-module racegame
+module github.com/probeldev/gamerace
 
 go 1.25.5
 

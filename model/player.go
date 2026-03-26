@@ -1,6 +1,6 @@
 package model
 
-import "racegame/config"
+import "github.com/probeldev/gamerace/config"
 
 type Player struct {
 	X int

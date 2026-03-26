@@ -4,8 +4,8 @@ import (
 	_ "embed"
 	"log"
 
-	"racegame/config"
-	"racegame/game"
+	"github.com/probeldev/gamerace/config"
+	"github.com/probeldev/gamerace/game"
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/examples/resources/fonts" // стандартный шрифт из примеров ebiten

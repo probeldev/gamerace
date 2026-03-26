@@ -5,12 +5,11 @@ import (
 	"os"
 	"strconv"
 
-	"racegame/config"
-	"racegame/scope"
-
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
 	"github.com/hajimehoshi/ebiten/v2/text"
+	"github.com/probeldev/gamerace/config"
+	"github.com/probeldev/gamerace/scope"
 )
 
 type gameOverScreen struct {

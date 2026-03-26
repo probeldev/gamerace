@@ -5,14 +5,13 @@ import (
 	"math/rand"
 	"strconv"
 
-	"racegame/config"
-	"racegame/model"
-	"racegame/scope"
-
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
 	"github.com/hajimehoshi/ebiten/v2/text"
 	"github.com/hajimehoshi/ebiten/v2/vector"
+	"github.com/probeldev/gamerace/config"
+	"github.com/probeldev/gamerace/model"
+	"github.com/probeldev/gamerace/scope"
 )
 
 type gameScreen struct {

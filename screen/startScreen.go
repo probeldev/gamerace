@@ -4,11 +4,10 @@ import (
 	"image/color"
 	"os"
 
-	"racegame/config"
-
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
 	"github.com/hajimehoshi/ebiten/v2/text"
+	"github.com/probeldev/gamerace/config"
 )
 
 type startScreen struct {

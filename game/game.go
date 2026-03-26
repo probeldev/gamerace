@@ -1,11 +1,10 @@
 package game
 
 import (
-	"racegame/config"
-	"racegame/scope"
-	"racegame/screen"
-
 	"github.com/hajimehoshi/ebiten/v2"
+	"github.com/probeldev/gamerace/config"
+	"github.com/probeldev/gamerace/scope"
+	"github.com/probeldev/gamerace/screen"
 )
 
 type CurrentScreenInterfacer interface {
